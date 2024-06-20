@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968714346137",
+    "project_id": "lbp-app-5ba75",
+    "storage_bucket": "lbp-app-5ba75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968714346137:android:98d4257a37ada58df1a208",
+        "android_client_info": {
+          "package_name": "com.example.lbp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfkyRSs1Fmx0z80EFdrrejdeEOujnIao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
